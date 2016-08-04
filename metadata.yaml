@@ -1,0 +1,33 @@
+_repo: Aria-da-Capo_5790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Millay, Edna St. Vincent
+    aliases:
+    - Boissevain, Edna St. Vincent Millay
+    - Boyd, Nancy
+    birthdate: 1892
+    deathdate: 1950
+    gutenberg_agent_id: '70'
+    url: http://www.gutenberg.org/2009/agents/70
+    wikipedia: http://en.wikipedia.org/wiki/Edna_St._Vincent_Millay
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Didactic drama'
+- !lcsh 'Friendship -- Drama'
+- !lcsh 'Alienation (Social psychology) -- Drama'
+- !lcsh 'Shepherds -- Drama'
+- !lcsh 'War -- Drama'
+- GITenberg
+title: Aria da Capo
+url: http://www.gutenberg.org/ebooks/5790
